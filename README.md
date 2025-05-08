@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm Nirmal — a curious developer who loves turning ☕ into code!  <br>I break things to learn how they work and fix them to make them better.  <br>Always building, always learning. 🚀
+
 
 
 # 💻 Tech Stack:
