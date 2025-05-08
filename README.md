@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+my name is nitmal
 <!--
 **nirmalpandey24/nirmalpandey24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
